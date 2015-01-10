@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = AutoAirplayPreferences;
+	cell = PSLinkCell;
+	detail = AutoAirplayPreferencesListController;
+	icon = AutoAirplayPreferences.png;
+	isController = 1;
+	label = AutoAirplay;
+    };
+}
