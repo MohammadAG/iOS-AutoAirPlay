@@ -1,7 +1,7 @@
 Package: com.mohammadag.airplayactivator
 Name: AutoAirPlay
 Depends: mobilesubstrate, libactivator
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Enable the first possible audio-only AirPlay speaker, if none found, the first AirPlay device.
 Maintainer: Mohammad Abu-Garbeyyeh
